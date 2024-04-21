@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ar2427
 - 👀 I’m interested in building fancy deep neural networks
 - 🌱 I’m currently learning how to use machine learning to solve BIG problems
-- 💞️ I’m looking to collaborate on building cool machine learning projects
 - 📫 How to reach me : Mail me at akhil.raj1997@gmail.com
 
 <!---
